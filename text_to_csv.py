@@ -1,7 +1,8 @@
 import csv
 
 # Written by Michel Thomasius - Copyright (C) 2023.
-# Parses a simple text file with a repeating pattern of lines, inserts the text lines into variables, strips any leading and trailing white spaces and then inserts the data into columns in a CSV file
+# Parses a simple text file with a repeating pattern of lines, inserts the text lines into variables, 
+# strips any leading and trailing white spaces and then inserts the data into columns in a CSV file
 # Example source txt file:
 # 18/07/2023
 #
